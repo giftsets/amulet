@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e96842d177d1c0f80dcc389b2789ed9a",
+    "revision": "a554a512d4d8b9dea930a25ff06f9cdb",
     "url": "/amulet/index.html"
   },
   {
-    "revision": "199dedc344a0520ca9d0",
-    "url": "/amulet/static/css/main.ebf5857d.chunk.css"
+    "revision": "5736e9d70a852e2c1c13",
+    "url": "/amulet/static/css/main.5138f499.chunk.css"
   },
   {
     "revision": "c82df234dda7505bd800",
     "url": "/amulet/static/js/2.87b9aa2a.chunk.js"
   },
   {
-    "revision": "199dedc344a0520ca9d0",
-    "url": "/amulet/static/js/main.f48b5e11.chunk.js"
+    "revision": "5736e9d70a852e2c1c13",
+    "url": "/amulet/static/js/main.9f5c1a6a.chunk.js"
   },
   {
     "revision": "ec296165be8f6c05a85e",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amulet/precache-manifest.b650f0e44ea8acb5d599883b7e7fda68.js"
+  "/amulet/precache-manifest.c0f95f37dd17a7511626541d8744e07c.js"
 );
 
 self.addEventListener('message', (event) => {

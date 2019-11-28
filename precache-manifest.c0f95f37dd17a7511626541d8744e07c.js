@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a554a512d4d8b9dea930a25ff06f9cdb",
+    "revision": "6c690f34b6a8df985f3444495497f861",
     "url": "/amulet/index.html"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amulet/static/css/main.5138f499.chunk.css",
+    "main.css": "/amulet/static/css/main.f2c188e6.chunk.css",
     "main.js": "/amulet/static/js/main.9f5c1a6a.chunk.js",
     "main.js.map": "/amulet/static/js/main.9f5c1a6a.chunk.js.map",
     "runtime-main.js": "/amulet/static/js/runtime-main.ab6cd596.js",
@@ -8,9 +8,9 @@
     "static/js/2.87b9aa2a.chunk.js": "/amulet/static/js/2.87b9aa2a.chunk.js",
     "static/js/2.87b9aa2a.chunk.js.map": "/amulet/static/js/2.87b9aa2a.chunk.js.map",
     "index.html": "/amulet/index.html",
-    "precache-manifest.c0f95f37dd17a7511626541d8744e07c.js": "/amulet/precache-manifest.c0f95f37dd17a7511626541d8744e07c.js",
+    "precache-manifest.1bc35b74a7bb268a5077b100f4739e6f.js": "/amulet/precache-manifest.1bc35b74a7bb268a5077b100f4739e6f.js",
     "service-worker.js": "/amulet/service-worker.js",
-    "static/css/main.5138f499.chunk.css.map": "/amulet/static/css/main.5138f499.chunk.css.map",
+    "static/css/main.f2c188e6.chunk.css.map": "/amulet/static/css/main.f2c188e6.chunk.css.map",
     "static/media/amulet_01.png": "/amulet/static/media/amulet_01.d1d157b8.png",
     "static/media/amulet_02.png": "/amulet/static/media/amulet_02.e73ff644.png",
     "static/media/amulet_03.png": "/amulet/static/media/amulet_03.713784fc.png",
@@ -87,7 +87,7 @@
   "entrypoints": [
     "static/js/runtime-main.ab6cd596.js",
     "static/js/2.87b9aa2a.chunk.js",
-    "static/css/main.5138f499.chunk.css",
+    "static/css/main.f2c188e6.chunk.css",
     "static/js/main.9f5c1a6a.chunk.js"
   ]
 }
